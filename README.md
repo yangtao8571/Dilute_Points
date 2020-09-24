@@ -1,8 +1,8 @@
 # Dilute_Points
 Dilute points of lines. Input is xml file which contains points, output is the diluted xml file that only contains diluted points.
-
+对线中的点进行抽稀。输入为包含点的xml文件，输出为包含抽稀过后的点的xml文件。
 # Input xml snippet
-'''
+```xml
     <Inflextion>
      <id>282</id>
      <name></name>
@@ -42,10 +42,10 @@ Dilute points of lines. Input is xml file which contains points, output is the d
      <endY>572456.1</endY>
      <radius>0</radius>
     </Inflextion>
-'''
+```
 
 # Output xml snippet
-'''
+```
     <Inflextion>
      <id>282</id>
      <name></name>
@@ -72,5 +72,4 @@ Dilute points of lines. Input is xml file which contains points, output is the d
      <endY>572456.1</endY>
      <radius>0</radius>
     </Inflextion>
-'''
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">YangTao</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/yangtao8571/Dilute_Points/blob/master/README.md" rel="dct:source">https://github.com/yangtao8571/Dilute_Points/blob/master/README.md</a>.
+```
