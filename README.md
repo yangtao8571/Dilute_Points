@@ -1,6 +1,6 @@
 # Dilute_Points
-Dilute points of lines. Input is xml file which contains points, output is the diluted xml file that only contains diluted points. Points satisfy the following condition will be removed: angle of the adjant two segments less than the specified angle(eg. 10°).<br>
-对线中的点进行抽稀。输入为包含点的xml文件，输出为包含抽稀过后的点的xml文件。点将被删除，当满足下列条件时：相邻线段的夹角小于给定角度（如10°）。
+*Dilute points of lines. Input is xml file which contains points, output is the diluted xml file that only contains diluted points. Points satisfy the following condition will be removed: angle of the adjant two segments less than the specified angle(eg. 10°).<br>
+对线中的点进行抽稀。输入为包含点的xml文件，输出为包含抽稀过后的点的xml文件。点将被删除，当满足下列条件时：相邻线段的夹角小于给定角度（如10°）。*
 # Run
 Dilute_Points\Dilute_Points\bin\Debug> Dilute_Points.exe
 # Input xml snippet
