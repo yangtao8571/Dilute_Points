@@ -1,6 +1,8 @@
 # Dilute_Points
 Dilute points of lines. Input is xml file which contains points, output is the diluted xml file that only contains diluted points.
 对线中的点进行抽稀。输入为包含点的xml文件，输出为包含抽稀过后的点的xml文件。
+# Run
+Dilute_Points\Dilute_Points\bin\Debug> Dilute_Points.exe
 # Input xml snippet
 ```xml
     <Inflextion>
