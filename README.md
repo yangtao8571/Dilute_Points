@@ -45,7 +45,7 @@ Dilute points of lines. Input is xml file which contains points, output is the d
 ```
 
 # Output xml snippet
-```
+```xml
     <Inflextion>
      <id>282</id>
      <name></name>
